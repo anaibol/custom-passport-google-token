@@ -1,6 +1,6 @@
 {
   "name": "custom-passport-google-token",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Google token authentication strategy for Passport.",
   "author": {
     "name": "Rob DiMarco",
